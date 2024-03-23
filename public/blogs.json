@@ -1,0 +1,103 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/1nYrRzp/img01.jpg",
+      "title": "Book Title 1",
+      "author": "Author 1",
+      "author_img": "https://i.ibb.co/N9Q4pYZ/profile1.jpg",
+      "post_date": "2024-03-22",
+      "reading_time": 45,
+      "hashtags": ["fiction", "mystery"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/ZdX6tvD/img2.jpg",
+      "title": "Book Title 2",
+      "author": "Author 2",
+      "author_img": "https://i.ibb.co/9Tqtst9/profile2.jpg",
+      "post_date": "2024-03-21",
+      "reading_time": 60,
+      "hashtags": ["science fiction", "adventure"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/jbf3FW3/img3.jpg",
+      "title": "Book Title 3",
+      "author": "Author 3",
+      "author_img": "https://i.ibb.co/1bRr51R/profile3.jpg",
+      "post_date": "2024-03-20",
+      "reading_time": 35,
+      "hashtags": ["romance", "contemporary"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/LzcKJMj/img4.jpg",
+      "title": "Book Title 4",
+      "author": "Author 4",
+      "author_img": "https://i.ibb.co/C8pDrg6/profile4.jpg",
+      "post_date": "2024-03-19",
+      "reading_time": 50,
+      "hashtags": ["fantasy", "magic"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/Gxy3SGd/img5.jpg",
+      "title": "Book Title 5",
+      "author": "Author 5",
+      "author_img": "https://i.ibb.co/984k8Kv/profile5.jpg",
+      "post_date": "2024-03-18",
+      "reading_time": 40,
+      "hashtags": ["thriller", "suspense"]
+    },
+    {
+      "id": "6",
+      "cover": "https://i.ibb.co/K6jg8fK/img6.jpg",
+      "title": "Book Title 6",
+      "author": "Author 6",
+      "author_img": "https://i.ibb.co/pbyFkVq/profile6.jpg",
+      "post_date": "2024-03-17",
+      "reading_time": 55,
+      "hashtags": ["historical fiction", "drama"]
+    },
+    {
+      "id": "7",
+      "cover": "https://i.ibb.co/4ZXCpBX/img7.jpg",
+      "title": "Book Title 7",
+      "author": "Author 7",
+      "author_img": "https://i.ibb.co/YDBMs0n/profile7.jpg",
+      "post_date": "2024-03-16",
+      "reading_time": 70,
+      "hashtags": ["biography", "nonfiction"]
+    },
+    {
+      "id": "8",
+      "cover": "https://i.ibb.co/D12pvp3/img8.jpg",
+      "title": "Book Title 8",
+      "author": "Author 8",
+      "author_img": "https://i.ibb.co/qxZbmyn/profile8.jpg",
+      "post_date": "2024-03-15",
+      "reading_time": 25,
+      "hashtags": ["self-help", "motivation"]
+    },
+    {
+      "id": "9",
+      "cover": "https://i.ibb.co/5WCh7QL/img9.jpg",
+      "title": "Book Title 9",
+      "author": "Author 9",
+      "author_img": "https://i.ibb.co/XLzzDL1/profile9.jpg",
+      "post_date": "2024-03-14",
+      "reading_time": 65,
+      "hashtags": ["health", "nutrition"]
+    },
+    {
+      "id": "10",
+      "cover": "https://i.ibb.co/tXVX683/img10.jpg",
+      "title": "Book Title 10",
+      "author": "Author 10",
+      "author_img": "https://i.ibb.co/n3tHvKy/profile10.jpg",
+      "post_date": "2024-03-13",
+      "reading_time": 30,
+      "hashtags": ["cookbook", "recipes"]
+    }
+  ]
+  
